@@ -1,0 +1,7 @@
+<html>
+<head><title>simple cicd demo</title>
+</head>
+<body>
+<h1>demo</h1>
+</html>
+</body>
